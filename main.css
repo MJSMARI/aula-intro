@@ -1,10 +1,14 @@
 h1 {
-   color: mediumspringgreen;
-    background-color: black;
+
+
     font-size: xx-large;
     text-align: center;
 }
 .ads {
-   font-size: medium;
-    color: brown;
+   font-size: x-large;
+    color: black;
+
+}
+html{text-align: center;
+    background-color: antiquewhite;
 }
