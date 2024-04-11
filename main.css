@@ -4,11 +4,32 @@ h1 {
     font-size: xx-large;
     text-align: center;
 }
+
 .ads {
-   font-size: x-large;
+    font-size: x-large;
     color: black;
 
 }
-html{text-align: center;
+
+html {
+    text-align: center;
     background-color: antiquewhite;
+}
+
+.flex-container {
+    display: flex;
+
+}
+
+.horizontal {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.vertical {
+    flex-direction: column;
+}
+
+.tamanho {
+    width: 45%;
 }
